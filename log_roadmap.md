@@ -1,0 +1,1 @@
+[ 18/03/21 ] -  Como o backend já fica por conta do xtreamcodi, vamo tentar layoutar no rapidin no Figma. Prazo: 06/04
